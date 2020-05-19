@@ -1,0 +1,14 @@
+.flex-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.actionBtn{
+    margin: 0 2px;
+   padding: 0.3rem;
+   text-transform: uppercase;
+   cursor: pointer;
+}
+
